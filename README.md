@@ -27,7 +27,7 @@ The dataset includes various parameters and features related to the gold recover
 
 ## Data Preprocessing and Analysis
 
-Python libraries such as Pandas, Matplotlib, and Scikit-learn are used for data analysis and preprocessing. This includes handling missing values, comparing train and test sets, and removing unnecessary features. Visuals like line graphs and box and whisker plots are incorporate to help understand the distributions of concentrations of substances.
+Python libraries such as Pandas, Matplotlib, and Scikit-learn are used for data analysis and preprocessing. This includes handling missing values, comparing train and test sets, and removing unnecessary features. Visuals like line graphs and box and whisker plots are incorporated to help understand the distributions of concentrations of substances.
 
 ## Model Building
 
