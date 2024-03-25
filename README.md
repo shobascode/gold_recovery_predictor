@@ -1,6 +1,6 @@
 ## Gold Recovery Prediction Model
 
-This repository contains a machine learning model developed for [Zyfra](https://www.zyfra.com/), a company specializing in providing efficient solutions for the mining, oil and gas, chemical, and engineering industries. This model uses linear regression and random forest to predict the amount of gold recovered from gold ore using extraction and purification data.
+This repository contains a machine learning model developed for [Zyfra](https://www.zyfra.com/), a company specializing in providing efficient solutions for the mining, oil and gas, chemical, and engineering industries. The project uses linear regression and random forest models to predict the amount of gold recovered from gold ore using extraction and purification data.
 
 ## Background
 
