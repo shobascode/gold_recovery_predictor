@@ -11,19 +11,19 @@ Gold recovery involves a series of stages including flotation and purification. 
 The dataset includes various parameters and features related to the gold recovery process. Here's a brief overview:
 
 ### Technological Process
-Rougher Feed: Raw material input.
-Rougher Additions: Flotation reagents including Xanthate (promoter or flotation activator), Sulphate (sodium sulphide for this process), and Depressant (sodium silicate).
-Rougher Process: Flotation process carried out in float banks to separate gold ore mixture.
-Rougher Tails: Residues from the rougher process.
-Cleaner Process: Further purification stages.
-Rougher Au: Rougher gold concentrate.
-Final Au: Final gold concentrate.
+- Rougher Feed: Raw material input.
+- Rougher Additions: Flotation reagents including Xanthate (promoter or flotation activator), Sulphate (sodium sulphide for this process), and Depressant (sodium silicate).
+- Rougher Process: Flotation process carried out in float banks to separate gold ore mixture.
+- Rougher Tails: Residues from the rougher process.
+- Cleaner Process: Further purification stages.
+- Rougher Au: Rougher gold concentrate.
+- Final Au: Final gold concentrate.
 
 ### Parameters of Stages
-Air Amount: Volume of air used in the process.
-Fluid Levels: Levels of fluids involved.
-Feed Size: Particle size of the feed material.
-Feed Rate: Rate of feed input.
+- Air Amount: Volume of air used in the process.
+- Fluid Levels: Levels of fluids involved.
+- Feed Size: Particle size of the feed material.
+- Feed Rate: Rate of feed input.
 
 ## Data Preprocessing and Analysis
 
